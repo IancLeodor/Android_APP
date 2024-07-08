@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "248501960156",
+    "firebase_url": "https://gusto-heaven-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "gusto-heaven",
+    "storage_bucket": "gusto-heaven.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248501960156:android:c2d28217beb0e72552a319",
+        "android_client_info": {
+          "package_name": "com.example.firebaseconection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_PlEkoIBNIpE8d1l5YnhXLvUaqGVs_Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

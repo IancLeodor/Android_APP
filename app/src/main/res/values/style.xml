@@ -1,0 +1,7 @@
+<resources>
+    <style name="SwitchCompatTheme" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">@color/switch_thumb_color</item>
+        <item name="colorSwitchThumbNormal">@color/switch_thumb_normal_color</item>
+        <item name="android:colorForeground">@color/switch_track_color</item>
+    </style>
+</resources>

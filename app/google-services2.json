@@ -1,0 +1,39 @@
+//{
+//  "project_info": {
+//    "project_number": "944337638760",
+//    "project_id": "padmw-conection",
+//    "storage_bucket": "padmw-conection.appspot.com"
+//  },
+//  "client": [
+//    {
+//      "client_info": {
+//        "mobilesdk_app_id": "1:944337638760:android:6ffffe2c8218f05b48b2dd",
+//        "android_client_info": {
+//          "package_name": "com.example.firebaseconection"
+//        }
+//      },
+//      "oauth_client": [
+//        {
+//          "client_id": "944337638760-iuft3d78rl7l3ngrdbaukpciotq0k6ge.apps.googleusercontent.com",
+//          "client_type": 3
+//        }
+//      ],
+//      "api_key": [
+//        {
+//          "current_key": "AIzaSyCmdfWkdF4KwQ6q1kmr5Ucb68lAT-7IXCc"
+//        }
+//      ],
+//      "services": {
+//        "appinvite_service": {
+//          "other_platform_oauth_client": [
+//            {
+//              "client_id": "944337638760-iuft3d78rl7l3ngrdbaukpciotq0k6ge.apps.googleusercontent.com",
+//              "client_type": 3
+//            }
+//          ]
+//        }
+//      }
+//    }
+//  ],
+//  "configuration_version": "1"
+//}
